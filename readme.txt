@@ -5,3 +5,4 @@ Git tracks changes .
 Creating a new branch is quick AND simple.
 Bug branch. 
 test1.
+test2.
